@@ -1,4 +1,4 @@
-# EDA - AIRBNB in the USA
+# EDA - AIRBNB in the USA 📊📈🏙️
 
 Exploratory Data Analysis of 50,000 AIRBNB in the USA using the matplotlyb library (visualizations).
 
